@@ -5,6 +5,8 @@
 ### University Registration Number: dpsdxxxxx (all members of the team)
 ### GitHub Personal Profile: xxx
 
+
+
 1.1 What is the project about? 
 
 Το project αφορά μια ιστορία βασισμένη στον Ελευθέριο Βενιζέλο , ο οποίος ξυπνά στην Σύρο του 2023 και προσπαθεί να καταλάβει που βρίσκεται. Συναντά μια κοπέλα και την ερωτεύεται όμως ο έρωτας αυτός δεν είναι παρα ένα όνειρο.
@@ -20,6 +22,9 @@
 1.4. What is its fundamental purpose? Is it to entertain, to teach or to inform? Is it to market a product?
 
 Βασικός σκοπός της ταινίας είναι να διασκεδάσει , συνδυάζοντας ιστορικά και φανταστικά στοιχεία . Επίσης σκοπός είναι να αναδειχθεί η συμπεριφορά ενός ατόμου εκτός φυσιολογικου πλαισίου .
+
+
+
 
 
 2.1. What are the narrative elements (such as plot, theme, characters, etc.) of the project? 
@@ -56,19 +61,17 @@
 
 2.7. Are negative capability and migratory cues included?
 
-Όχι 
+
 
 2.8. Is it possible to identify intermedial texts in the story?
 
 
 
-Worldbuilding
-
 
 3.1. When the story occurs? 
 
 Η ιστορία ξεκινάει το 1880 οταν ο πρωταγωνιστής πέφτει για ύπνο και ξυπνά στο 2023
-1880(parelthon)-2023(oneiro)
+1880(παρελθόν)-2023(όνειρο)
 
 3.2. Which is the central world where the project is set?
 
@@ -97,6 +100,8 @@ mixture
 3.7. Is the storyworld big enough to support expansions? 
 
 Ναι , παρόλα αυτά η ταινία περιορίζεται στο βασικό κομμάτι της ιστορίας . Θα μπορούσε να υπάρξει συνέχεια στο πως ο πρωταγωνιστής διαχειρίζεται την εμπειρία αυτή στην συνέχεια της ζωής του,εφόσον έχει επανέλθει στο 1880.
+
+
 
 
 4.1. Who are the primary and secondary characters of the story? 

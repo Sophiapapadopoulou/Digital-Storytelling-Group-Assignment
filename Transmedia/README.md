@@ -193,7 +193,7 @@ H απολαυση που εμπεριεχεται ειναι πως οι ερω
 
 7.7. What is the project’s business model? 
 
-![unnamed](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Group-Assignment/assets/101890627/8a48d9dc-509b-4da0-82de-83c2dfc065a5)
+![new](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Group-Assignment/assets/101890627/734c6763-849b-4faf-b38b-5ef978797be5)
 
 7.8. Revenue-wise, was the project successful? Why?
 

@@ -12,3 +12,6 @@ Design document:
 
 
 Σύνδεσμος για την ταινία: https://youtu.be/j-7Gx280qXY
+
+Το αρχείο του βιβλίου:
+[transmedia-digital-storytelling-HI5.pdf](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Group-Assignment/files/11626056/transmedia-digital-storytelling-HI5.pdf)

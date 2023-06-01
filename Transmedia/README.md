@@ -194,7 +194,8 @@
 
 7.7. What is the project’s business model? 
 
-![vv](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Group-Assignment/assets/101890627/cfe24973-d2cf-4750-9197-06c9c5df64ae)
+
+![im](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Group-Assignment/assets/101890627/47aed24d-be8a-4545-b0e0-d07af704691d)
 
 
 

@@ -7,13 +7,9 @@ University Registration Number: dpsd19095, dpsd18098, dpsd18003, dpsd19082, dpsd
 
 GitHub Personal Profile: https://github.com/Sophiapapadopoulou, https://github.com/dpsd18098, https://github.com/dpsd18003, https://github.com/dpsd19082, https://github.com/AnnaMitsiani
 
-Ψηφιακές Μορφές Αφήγησης
+
 Ομάδα Hi5
-Αϊβαλιώτη Μαρία Άννα dpsd18003
-Πρίντεζη Μαρία dpsd18098
-Μητσιάνη Άννα dpsd19074
-Μωυσίδου Μαλαματή dpsd19082
-Παπαδοπούλου Σοφία dpsd19095
+
 
 1. Υπόθεση και στόχος.......................................................................................................... 1
 
